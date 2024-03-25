@@ -1,4 +1,4 @@
-# Bjorn -- Redis-Like Key-Value Store
+# Bjorn: Redis-Like Key-Value Store
 
 This repository contains a simple implementation of a key-value store inspired by Redis, implemented in C++. It consists of two main components: a client and a server, facilitating communication via sockets. The client allows users to interact with the server by sending commands, while the server processes these commands and manages the key-value data store.
 
