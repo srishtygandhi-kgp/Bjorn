@@ -1,2 +1,2 @@
 # Bjorn
-Implementation of distributed key-value pair
+Implementation of key-value datastore
